@@ -1,7 +1,7 @@
 #!/bin/bash
 
 node download_lists.js blocklist
-
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 
